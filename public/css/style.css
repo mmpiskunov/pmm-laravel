@@ -1,0 +1,82 @@
+body {
+    color: #333333;
+    font-size: 14px;
+    font-family: Tahoma, Arial, Helvetica, sans-serif;
+    background-color: #eeeeee;
+}
+
+h1 {
+    font-family: Arial, Helvetica, sans-serif, Tahoma;
+    color: #2d509a;
+    font-size: 21px;
+    font-weight: bold;
+}
+
+h2 {
+    font-family: Arial, Helvetica, sans-serif, Tahoma;
+    font-weight: bold;
+    font-size: 18px;
+    color: #2d509a;
+}
+
+h3 {
+    font-family: Arial, Helvetica, sans-serif, Tahoma;
+    color: #2d509a;
+    font-size: 16pt;
+    font-weight: bolder;
+}
+
+a {
+    color: #1d4fb9;
+}
+
+a:hover {
+    color: #cf0000;
+}
+
+.content {
+    width: 800px;
+    max-width: 80%;
+    padding: 20px 40px 20px 40px;
+    margin: auto;
+    background-color: white;
+}
+
+.block {
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
+
+.info {
+    margin-top: 3px;
+    margin-bottom: 3px;
+}
+
+.container {
+    overflow: hidden;
+    width: 200px
+}
+
+.copmany {
+    white-space: nowrap;
+}
+
+.date {
+    width: 200px;
+    display: inline-block;
+    font-weight: bolder;
+}
+
+.name {
+    display: inline-block;
+    font-weight: bolder;
+}
+
+.vacancy {
+    margin: 10px 0 -5px 40px;
+    font-weight: bolder;
+}
+
+.block li {
+    margin-top: 3px;
+}
